@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SendQuestion</name>
+   <tag></tag>
+   <elementGuidId>e1efb4f4-c9aa-465c-bcfe-5b1b2c1f17e3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>a32b8346-290e-444e-bef6-e362821c6acb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>py-2 text-xs pr-10 form-input w-full  rounded-md bg-dark-transparant/80 backdrop-filter backdrop-blur-sm border border-neutral-ted outline-none text-neutral-ted-60</value>
+      <webElementGuid>b76afdb2-0512-4e72-a80b-99d97659654b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Tuliskan kebutuhan Anda ...</value>
+      <webElementGuid>0c3c02a4-2f60-4318-a82e-95c81f32bfbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>446b39ef-5e40-4460-8bad-46701bd4c675</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;__className_77667f __variable_df8903 subpixel-antialiased bg-gray-50&quot;]/div[@class=&quot;h-screen w-full flex&quot;]/div[@class=&quot;h-full w-full flex&quot;]/div[@class=&quot;h-full bg-primary-ted w-full relative overflow-hidden&quot;]/div[@class=&quot;relative h-full w-full flex flex-col justify-between overflow-hidden&quot;]/div[@class=&quot;relative z-20&quot;]/div[@class=&quot;w-full py-4 px-6 space-y-4 z-40 backdrop-filter backdrop-blur-xl&quot;]/div[@class=&quot;relative&quot;]/input[@class=&quot;py-2 text-xs pr-10 form-input w-full  rounded-md bg-dark-transparant/80 backdrop-filter backdrop-blur-sm border border-neutral-ted outline-none text-neutral-ted-60&quot;]</value>
+      <webElementGuid>9c594b55-3cc6-4060-ae0e-ec60dae01d88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Homepage  Enterprise/iframe_HUBUNGI KAMI_ted-iframe</value>
+      <webElementGuid>47a1d67f-e876-4c10-aade-b2edec4cce7b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>3151994f-6656-46c4-9d66-c931ed738461</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>79928f5e-caf3-4ee0-b32d-a4d59fd1dddd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Tuliskan kebutuhan Anda ...' and @type = 'text']</value>
+      <webElementGuid>6091e6cc-4fd8-4ab4-b376-fac80ead216c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
